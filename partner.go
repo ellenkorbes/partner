@@ -32,7 +32,7 @@ func try(what, served string, dislikes []string) string {
 
 // Water drinks water.
 func Water() string {
-	dislikes := []string{"still", "hot"}
+	dislikes := []string{"hot"}
 	return try("water", water.Glass(), dislikes)
 }
 
