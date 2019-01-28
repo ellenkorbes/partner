@@ -16,10 +16,8 @@ package partner
 // 1.6.0-iced
 
 import (
-	"../bread"
-	"../coffee"
-
-	// "../water"
+	"github.com/ellenkorbes/bread"
+	"github.com/ellenkorbes/coffee"
 	"github.com/ellenkorbes/water"
 )
 
